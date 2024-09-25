@@ -23,12 +23,12 @@ Select sum(sales) as Total_Sales from transactions;
 ```
 ![Screenshot 2024-09-25 232852](https://github.com/user-attachments/assets/b51d42d7-99a4-4452-acf9-6039110df2d3)
 
-```
+```sql
 Select sum(transaction_qty) as Total_Quantity_Sold from transactions;
 ```
 ![Screenshot 2024-09-25 232921](https://github.com/user-attachments/assets/1835015d-3066-474c-91aa-df63297d75e3)
 
-```
+```sql
 Select count(transaction_id) as Total_Orders from transactions;
 ```
 
