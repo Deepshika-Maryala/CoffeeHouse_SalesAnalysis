@@ -34,6 +34,10 @@ Select count(transaction_id) as Total_Orders from transactions;
 
 ![Screenshot 2024-09-25 232906](https://github.com/user-attachments/assets/1d4db0dc-f183-4414-a756-b46d3d6635a8)
 
+### Insights and Findings:
+- The data has revealed that sales are Massively increasing on weekdays.
+- The data also revealed that the highest orders and sales are in the morning.
+- There is massive increase in demand for 'Barista Expresso'.
 ### Analyzed Metrics:
 - Total sales
 - Total Quantity
@@ -55,8 +59,8 @@ Select count(transaction_id) as Total_Orders from transactions;
 ### User Interactive Features:
 Slicer : Provide options for different time periods (months).
 ### Project phases and milestones:
-- Data Collection and Preparation: December 2023
-- Dashboard Design and Development: February 2024
+- Data Collection and Preparation: May 2023- June 2023
+- Dashboard Design and Development: July 2023- October 2023
 ## Report Snapshot (Power BI Desktop)
 
 
