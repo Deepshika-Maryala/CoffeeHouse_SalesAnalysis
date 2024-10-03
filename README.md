@@ -59,8 +59,8 @@ Select count(transaction_id) as Total_Orders from transactions;
 ### User Interactive Features:
 Slicer : Provide options for different time periods (months).
 ### Project phases and milestones:
-- Data Collection and Preparation: May 2023- June 2023
-- Dashboard Design and Development: July 2023- October 2023
+- Data Collection and Preparation: May 2024- June 2024
+- Dashboard Design and Development:  June 2024- July 2024
 ## Report Snapshot (Power BI Desktop)
 
 
