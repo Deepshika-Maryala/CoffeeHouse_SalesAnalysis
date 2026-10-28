@@ -58,9 +58,6 @@ Select count(transaction_id) as Total_Orders from transactions;
 - Displaying the best seller.
 ### User Interactive Features:
 Slicer : Provide options for different time periods (months).
-### Project phases and milestones:
-- Data Collection and Preparation: May 2024- June 2024
-- Dashboard Design and Development:  June 2024- July 2024
 ## Report Snapshot (Power BI Desktop)
 
 
